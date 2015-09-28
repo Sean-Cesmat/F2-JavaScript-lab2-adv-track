@@ -16,3 +16,13 @@ comments. Be sure to read everything. Run lab2.js with `node lab2.js`.
 
 
 #### Resources and Collaborators
+http://stackoverflow.com/questions/9772307/declaring-javascript-object-method-in-constructor-function-vs-in-prototype
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_Objects
+http://code.tutsplus.com/tutorials/prototypes-in-javascript--net-24949
+http://blog.pivotal.io/labs/labs/javascript-constructors-prototypes-and-the-new-keyword
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Inheritance_and_the_prototype_chain
+https://msdn.microsoft.com/en-us/library/57a79xd0(v=vs.110).aspx
+https://msdn.microsoft.com/en-us/library/ff679980(v=vs.94).aspx
+https://api.jquery.com/slice/
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String
+http://stackoverflow.com/questions/22395357/how-to-compare-two-arrays-are-equal-using-javascript-or-jquery
